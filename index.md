@@ -1,5 +1,16 @@
 ## Welcome to GitHub Pages
 
+# Takaaki Itoh 
+### Japan
+
+　現在、全くの個人的利用が目的です。
+少しでもGitHubに慣れ親しみたくなり、利用し始めました。時間の許す限りに、極力関わって行こうかって思う。
+
+とりあえず、今日はここまでって事で．．．
+
+
+ 
+ 
 You can use the [editor on GitHub](https://github.com/takaaki-itoh/takaaki-itoh-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
