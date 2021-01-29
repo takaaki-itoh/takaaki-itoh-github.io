@@ -15,3 +15,7 @@ I also want to use Rust to shape something. I also want to try various framework
 Because it is not my main business now, it is tight in terms of time. In the end, it's tight because there are many different cases in my main business. I will continue to work hard.
 
 
+
+I wrote it in Google translation.
+OK?
+
