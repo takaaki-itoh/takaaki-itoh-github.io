@@ -19,3 +19,7 @@ Because it is not my main business now, it is tight in terms of time. In the end
 I wrote it in Google translation.
 OK?
 
+
+私のサイト構築してパブリックしてますが、ブートストラップをネット経由にしてみます。すみません。
+
+
