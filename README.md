@@ -1,27 +1,48 @@
-# takaaki-itoh-github.io
-For the time being, I will create my own site and then program.
-Past products have been uploaded, and plans will be implemented in the future. It is a personal app to the last. It takes time, but we aim to complete it.
-I want to go to android development somehow.
+　日本生まれの日本育ちの日本人です。
+ハワイ以外の海外は行ったことがありません。美しいヨーロッパとか、遺跡のある国々には行きたいとは思ってます。
+モルジブへもダイビングで行きたい夢はあります。
+NAUIのダイバーですが、もう随分と潜ってません。いままでは、日本国内の近海で150本ほど潜ってます。
+メタルバンドも組めれば組みたいものですね、フュージョンでも良いですが．．．
 
-I want to make one web application in php, one desktop application in C #, and something in C ++.
-I want to use Laravel in php, but it takes time to use it at this time.
-Finally, go to Android development.
-All the functions of the app are almost the same for the purpose.
+GitHubは個人利用で始めました。活用の在り方は、状況に応じて努めていく次第です。
 
-The purpose is to reconfirm what has been done so far and leave the shape.
-The rest is a try for something I have never done.
-I also want to use Rust to shape something. I also want to try various frameworks.
+暫くは、ウェブシステム1件をPHPで構築し、レンタルサーバで稼働したいと考えています。
+実際は2機能の実装になると思います。画期的なものではないですよ。使い良ければオッケー的なアプリです。
 
-Because it is not my main business now, it is tight in terms of time. In the end, it's tight because there are many different cases in my main business. I will continue to work hard.
+その後は、これらのウェブシステムのデスクトップ版をC#で構築し、フリーソフトとして配布したりしたいと考えています。
+そして、Javaでサーバサイドのアプリでも構築して、エンタープライズ感を享受したりするのも良いな、と思ってます。
+JSPとかなにやらで今時の仕様で、今を知りたい．．．
+Pythonも適度に向き合って形にしていきたいと考えてます。
 
+　私の場合、フレームワークはASP.NETでの開発でしか使用した事がないのですが、その恩恵は理解しています。
+今回のPHPの開発では、途中かLaravelを利用しようと思ってます。学習しますが．．．
+アプリ的インタフェースになるので、JavaScriptで実装しないといけなくなるかもしれません。ライブラリの恩恵で済めばそれで良しですが、
+JavaScriptのフレームワークも利用してみたいですね。
 
-
-I wrote it in Google translation.
-OK?
-
-
-私のサイト構築してパブリックしてますが、ブートストラップをネット経由にしてみます。すみません。
-js動くように改修します。
+　スマートフォンのアプリ開発が全くのノータッチですので、いつか向き合いたいと考えています。Androidですがね。
+ 最終的には、C/C++に戻ってきて、現在の仕様を再確認してから、ツールか何かを開発しようと考えています。
+ Rustとも向き合いながら、何とかできれば良いです。
+ 
+ 以上が、全く個人的な開発のロードマップです。
+ 時間的に難しいのですが、やり残した事として、粛々と少しずつ構築していきます。
+ 
+ 仕事ではないですから、週末とか休みの時しか出来ないでしょうから、ホント大変です。
+ 
+ 開発環境も構築しないといけないしで、Docker使いますが、また調べて何やらで．．．
+ 一回のPC起動で一作業して終了、みたいな感じです。向き合うべき局面になれば、時間無視になれますが、それまでは、状況次第のマイペースです。
+ 今年中にPHPのウェブシステム、Laravel込みで完成させる予定です。あくまで予定です。
+  
+ 
+ 2021.2.9
+ Takaaki Itoh
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
